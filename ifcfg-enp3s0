@@ -1,0 +1,7 @@
+# cat ifcfg-enp3s0
+TYPE=Ethernet
+BOOTPROTO=none
+DEFROUTE=yes
+DEVICE=enp3s0
+ONBOOT=yes
+BRIDGE=cloudbr0
